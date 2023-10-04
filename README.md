@@ -1,22 +1,3 @@
-# Python Web Scraping Tutorial: Step-By-Step
-
-[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
-
-
-## Table of Contents
-
-- [Web Scraping in 5 Lines of Code](#Web-Scraping-in-5-Lines-of-Code)
-- [Components of a Web Scraping with Python Code](#Components-of-a-Web-Scraping-with-Python-Code)
-    - [Python Libraries](#Python-Libraries)
-    - [Python Web Scraping: Working with Requests](#Python-Web-Scraping-Working-with-Requests)
-- [BeautifulSoup](#BeautifulSoup)
-- [Find Methods in BeautifulSoup4](#Find-Methods-in-BeautifulSoup4)
-    - [Finding Multiple Elements](#Finding-Multiple-Elements)
-    - [Finding Nested Elements](#Finding-Nested-Elements)
-    - [Exporting the data](#Exporting-the-data)
-- [Other Tools](#Other-Tools)
-
-In this Python Web Scraping Tutorial, we will outline everything needed to get started with web scraping. We will begin with simple examples and move on to relatively more complex. 
 
 Python is arguably the most suitable programming language for web scraping because of its ease and a plethora of open source libraries. Some libraries make it easy to extract the data and to transform the data into any format needed, be it a simple CSV, to a more programmer-friendly JSON, or even save directly to the database.
 
